@@ -7,8 +7,9 @@ A full-stack billing and sales automation system for pharmaceutical businesses. 
 
 ⚠️ The backend is currently **not deployed online**.  
 To run locally, please follow the setup instructions below.  
+---
+##Screen Shorts
 
-Screen Shorts
 Sign in Page
 ![Screenshot 2025-06-30 022557](https://github.com/user-attachments/assets/28bd4127-22a1-4f63-a12e-28195964fb33)
 
