@@ -3,9 +3,24 @@
 A full-stack billing and sales automation system for pharmaceutical businesses. Designed to simplify daily sales operations, reduce manual invoicing errors, and provide an intuitive POS-like interface for admins.
 
 ---
-Screen Shorts![Screenshot 2025-06-30 022737](https://github.com/user-attachments/assets/b82c7f0a-9aa1-4a07-8479-9d063f5bbac0)
+## 🌐 Deployment Status
+
+⚠️ The backend is currently **not deployed online**.  
+To run locally, please follow the setup instructions below.  
+
+Screen Shorts
+Sign in Page
+![Screenshot 2025-06-30 022557](https://github.com/user-attachments/assets/28bd4127-22a1-4f63-a12e-28195964fb33)
+
+DashBoard Screen
+![Screenshot 2025-06-30 022631](https://github.com/user-attachments/assets/a6e15f60-d183-42e5-8574-24b4fcffbcd8)
+
+Main Billing Screen
+![Screenshot 2025-06-30 022648](https://github.com/user-attachments/assets/4c7b6932-83df-4079-bf4a-da2cc81d6707)
 
 
+Order History
+![Screenshot 2025-06-30 022737](https://github.com/user-attachments/assets/b82c7f0a-9aa1-4a07-8479-9d063f5bbac0)
 
 ## 📌 Features
 
